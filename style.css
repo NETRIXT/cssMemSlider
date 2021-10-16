@@ -1,0 +1,11 @@
+.wrapper {
+    max-width: 1920px;
+    margin: auto;
+}
+
+.sliderBox {
+    display: flex;
+    background-color: gray;
+    vh: 100%;
+    vw: 100%;
+}
